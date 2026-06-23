@@ -1,0 +1,169 @@
+# Copyright (C) 2026 Qorntix
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Qorntix 1.0.0\n"
+"Report-Msgid-Bugs-To: https://example.com/support\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-06-22T00:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Manual\n"
+"X-Domain: qorntix\n"
+
+#. Theme Name of the theme
+msgid "Qorntix"
+msgstr ""
+
+#: app/core/setup.class.php
+msgid "Primary Menu"
+msgstr ""
+
+#: app/core/setup.class.php
+msgid "Footer Menu"
+msgstr ""
+
+#: app/core/widgets.class.php
+msgid "Primary Sidebar"
+msgstr ""
+
+#: app/core/widgets.class.php
+msgid "Widgets shown in the blog / archive sidebar."
+msgstr ""
+
+#: app/core/widgets.class.php
+msgid "Footer"
+msgstr ""
+
+#: app/core/widgets.class.php
+msgid "Widgets shown in the footer area."
+msgstr ""
+
+#: app/core/customizer.class.php
+msgid "Theme Layout"
+msgstr ""
+
+#: app/core/customizer.class.php
+msgid "Sidebar Position"
+msgstr ""
+
+#: app/core/customizer.class.php
+msgid "Right Sidebar"
+msgstr ""
+
+#: app/core/customizer.class.php
+msgid "Left Sidebar"
+msgstr ""
+
+#: app/core/customizer.class.php
+msgid "No Sidebar"
+msgstr ""
+
+#: app/core/customizer.class.php
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: app/core/customizer.class.php
+msgid "Leave empty to show the default credit line."
+msgstr ""
+
+#. translators: 1: current year, 2: site name.
+#: app/utility/helpers.php
+msgid "&copy; %1$s %2$s. All rights reserved."
+msgstr ""
+
+#: app/utility/template-tags.php
+msgctxt "post author"
+msgid "by"
+msgstr ""
+
+#: app/utility/template-tags.php
+msgid "Posted in"
+msgstr ""
+
+#: app/utility/template-tags.php
+msgid "Tagged"
+msgstr ""
+
+#: app/utility/template-tags.php
+msgid "Leave a comment"
+msgstr ""
+
+#: app/utility/template-tags.php
+msgid "1 Comment"
+msgstr ""
+
+#: app/utility/template-tags.php
+msgid "% Comments"
+msgstr ""
+
+#: app/utility/template-tags.php
+msgid "Previous:"
+msgstr ""
+
+#: app/utility/template-tags.php
+msgid "Next:"
+msgstr ""
+
+#: header.php
+msgid "Skip to content"
+msgstr ""
+
+#: header.php
+msgid "Menu"
+msgstr ""
+
+#: index.php archive.php search.php
+msgid "Older posts"
+msgstr ""
+
+#: index.php archive.php search.php
+msgid "Newer posts"
+msgstr ""
+
+#: 404.php
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: template-parts/content.php
+msgid "Read more %s"
+msgstr ""
+
+#: template-parts/content-none.php
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: comments.php
+msgid "Comments are closed."
+msgstr ""

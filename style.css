@@ -1,0 +1,37 @@
+/*
+Theme Name: Qorntix
+Theme URI: https://example.com/qorntix/
+Author: faridmia
+Author URI: https://profiles.wordpress.org/faridmia/
+Description: Qorntix is a lightweight, fast and accessible classic WordPress theme for blogs, portfolios and small business sites. It ships with a full template hierarchy, a built-in Customizer powered by the core WordPress Customizer API, widget areas and clean, standards-compliant code — with no required plugins. Translation ready and built for the block editor.
+Version: 1.0.0
+Requires at least: 6.5
+Tested up to: 6.7
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: qorntix
+Domain Path: /languages
+Tags: blog, portfolio, one-column, two-columns, right-sidebar, left-sidebar, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, theme-options, block-styles, wide-blocks, rtl-language-support
+
+Qorntix is based on Underscores (https://underscores.me/), (C) 2012-2020 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Qorntix WordPress Theme, (C) 2026 Qorntix.
+Qorntix is distributed under the terms of the GNU GPL v2 or later.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+*/
+
+/*
+ * Note: All visual styles live in assets/css/main.css, which is enqueued
+ * separately. This file only carries the required theme header above.
+ */
