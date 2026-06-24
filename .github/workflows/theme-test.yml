@@ -12,12 +12,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
       - uses: actions/setup-node@v1
         with:
           node-version: '12'
 
       - name: Theme Test
-        id: test
         uses: Wordpress/theme-review-action@trunk
         with:
           accessible-ready: true
